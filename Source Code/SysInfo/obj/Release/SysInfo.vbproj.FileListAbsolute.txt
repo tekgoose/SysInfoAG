@@ -1,0 +1,48 @@
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\bin\Release\SysInfo.exe.config
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\bin\Release\SysInfo.exe.manifest
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\bin\Release\SysInfo.application
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\bin\Release\SysInfo.exe
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\bin\Release\SysInfo.XmlSerializers.dll
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\bin\Release\SysInfo.pdb
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\bin\Release\SysInfo.xml
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Release\SysInfo.About.resources
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Release\SysInfo.Main.resources
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Release\SysInfo.Resources.resources
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Release\SysInfo.Settings.resources
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Release\SysInfo.Warranty.resources
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Release\SysInfo.vbproj.GenerateResource.Cache
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Release\SysInfo.exe.manifest
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Release\SysInfo.application
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Release\SysInfo.exe
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Release\SysInfo.xml
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Release\SysInfo.pdb
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Release\SysInfo.XmlSerializers.dll
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Release\SysInfo.vbprojResolveAssemblyReference.cache
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Release\SysInfo.Dump_Logs.resources
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Release\SysInfo.ActiveDirectoryToolkit.resources
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Release\SysInfo.UpdateManager.resources
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Release\SysInfo.UpdatePicture.resources
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\bin\Release\SysInfo.exe.config
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\bin\Release\SysInfo.exe.manifest
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\bin\Release\SysInfo.application
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\bin\Release\SysInfo.exe
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\bin\Release\SysInfo.XmlSerializers.dll
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\bin\Release\SysInfo.pdb
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\bin\Release\SysInfo.xml
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\obj\Release\SysInfo.vbprojResolveAssemblyReference.cache
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\obj\Release\SysInfo.About.resources
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\obj\Release\SysInfo.ActiveDirectoryToolkit.resources
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\obj\Release\SysInfo.UpdateManager.resources
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\obj\Release\SysInfo.UpdatePicture.resources
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\obj\Release\SysInfo.Dump_Logs.resources
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\obj\Release\SysInfo.Main.resources
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\obj\Release\SysInfo.Resources.resources
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\obj\Release\SysInfo.Settings.resources
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\obj\Release\SysInfo.Warranty.resources
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\obj\Release\SysInfo.vbproj.GenerateResource.Cache
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\obj\Release\SysInfo.exe.manifest
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\obj\Release\SysInfo.application
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\obj\Release\SysInfo.exe
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\obj\Release\SysInfo.xml
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\obj\Release\SysInfo.pdb
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\obj\Release\SysInfo.XmlSerializers.dll

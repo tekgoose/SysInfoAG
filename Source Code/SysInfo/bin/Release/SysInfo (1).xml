@@ -1,0 +1,134 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SysInfo
+</name>
+</assembly>
+<members>
+<member name="T:SysInfo.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:SysInfo.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:SysInfo.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:SysInfo.com.dell.xserv.AssetService">
+<remarks/>
+</member>
+<member name="M:SysInfo.com.dell.xserv.AssetService.#ctor">
+<remarks/>
+</member>
+<member name="E:SysInfo.com.dell.xserv.AssetService.GetAssetInformationCompleted">
+<remarks/>
+</member>
+<member name="M:SysInfo.com.dell.xserv.AssetService.GetAssetInformation(System.Guid,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:SysInfo.com.dell.xserv.AssetService.GetAssetInformationAsync(System.Guid,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:SysInfo.com.dell.xserv.AssetService.GetAssetInformationAsync(System.Guid,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:SysInfo.com.dell.xserv.AssetService.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:SysInfo.com.dell.xserv.Asset">
+<remarks/>
+</member>
+<member name="P:SysInfo.com.dell.xserv.Asset.AssetHeaderData">
+<remarks/>
+</member>
+<member name="P:SysInfo.com.dell.xserv.Asset.Entitlements">
+<remarks/>
+</member>
+<member name="P:SysInfo.com.dell.xserv.Asset.DupilcateAssets">
+<remarks/>
+</member>
+<member name="P:SysInfo.com.dell.xserv.Asset.UserMessage">
+<remarks/>
+</member>
+<member name="T:SysInfo.com.dell.xserv.AssetHeaderData">
+<remarks/>
+</member>
+<member name="P:SysInfo.com.dell.xserv.AssetHeaderData.ServiceTag">
+<remarks/>
+</member>
+<member name="P:SysInfo.com.dell.xserv.AssetHeaderData.SystemID">
+<remarks/>
+</member>
+<member name="P:SysInfo.com.dell.xserv.AssetHeaderData.Buid">
+<remarks/>
+</member>
+<member name="P:SysInfo.com.dell.xserv.AssetHeaderData.Region">
+<remarks/>
+</member>
+<member name="P:SysInfo.com.dell.xserv.AssetHeaderData.SystemType">
+<remarks/>
+</member>
+<member name="P:SysInfo.com.dell.xserv.AssetHeaderData.SystemModel">
+<remarks/>
+</member>
+<member name="P:SysInfo.com.dell.xserv.AssetHeaderData.SystemShipDate">
+<remarks/>
+</member>
+<member name="T:SysInfo.com.dell.xserv.EntitlementData">
+<remarks/>
+</member>
+<member name="P:SysInfo.com.dell.xserv.EntitlementData.ServiceLevelCode">
+<remarks/>
+</member>
+<member name="P:SysInfo.com.dell.xserv.EntitlementData.ServiceLevelDescription">
+<remarks/>
+</member>
+<member name="P:SysInfo.com.dell.xserv.EntitlementData.Provider">
+<remarks/>
+</member>
+<member name="P:SysInfo.com.dell.xserv.EntitlementData.StartDate">
+<remarks/>
+</member>
+<member name="P:SysInfo.com.dell.xserv.EntitlementData.EndDate">
+<remarks/>
+</member>
+<member name="P:SysInfo.com.dell.xserv.EntitlementData.DaysLeft">
+<remarks/>
+</member>
+<member name="P:SysInfo.com.dell.xserv.EntitlementData.EntitlementType">
+<remarks/>
+</member>
+<member name="T:SysInfo.com.dell.xserv.EntitlementType">
+<remarks/>
+</member>
+<member name="F:SysInfo.com.dell.xserv.EntitlementType.Expired">
+<remarks/>
+</member>
+<member name="F:SysInfo.com.dell.xserv.EntitlementType.Active">
+<remarks/>
+</member>
+<member name="F:SysInfo.com.dell.xserv.EntitlementType.Future">
+<remarks/>
+</member>
+<member name="F:SysInfo.com.dell.xserv.EntitlementType.Credited">
+<remarks/>
+</member>
+<member name="T:SysInfo.com.dell.xserv.GetAssetInformationCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:SysInfo.com.dell.xserv.GetAssetInformationCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:SysInfo.com.dell.xserv.GetAssetInformationCompletedEventArgs.Result">
+<remarks/>
+</member>
+</members>
+</doc>

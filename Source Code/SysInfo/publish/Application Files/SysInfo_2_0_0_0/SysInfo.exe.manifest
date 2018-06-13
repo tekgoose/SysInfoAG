@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="SysInfo.exe" version="2.0.0.0" publicKeyToken="7af80cf77f8d7437" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="SysInfo" version="2.0.0.2" language="neutral" processorArchitecture="msil" />
+    <commandLine file="SysInfo.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+             If you want to change the Windows User Account Control level replace the 
+             requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel element will disable file and registry virtualization. 
+            Remove this element if your application requires this virtualization for backwards
+            compatibility.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SysInfo.exe" size="43912">
+      <assemblyIdentity name="SysInfo" version="2.0.0.2" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>dVefsiG84dhYMvdzJb99rZUnMZo=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="SysInfo.exe.config" size="925">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>7dTIfdizc7HHQetkv0Tjr4sCcj4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of the Windows versions that this application has been tested on and is
+           is designed to work with. Uncomment the appropriate elements and Windows will 
+           automatically selected the most compatible environment. -->
+      <!-- Windows Vista -->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />-->
+      <!-- Windows 7 -->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}" />-->
+      <!-- Windows 8 -->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}" />-->
+      <!-- Windows 8.1 -->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}" />-->
+      <!-- Windows 10 -->
+      <!--<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=KROPP\justin" issuerKeyHash="f39224be98ac5716f4935cbd0296076770bc99b0" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>iEFFKfgSVtvZ3/yY963kuUIjQjU=</DigestValue></Reference></SignedInfo><SignatureValue>bT4QC6/3rT5uzdW+tOenx17gq+7uPeu+O8sL2UWdG0t5EzcNEsGtsIan+rrbd2NBNpOWx0iYdiPQUI7mJq7TCMkPyteK0xHJ9E6XleD0Jt7eChngYJXDtdY8V1BfKjQZfv0+UZ1fzg6MDYPPw/gBsxZwuRzTWliaYCby+9TBrCM=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>jGKxaKo2LyCLx+6ZexNxYSQsH2ITZWchQke39Hxa8efohbfIOt+fQnCUY1dMg7c2qm5GI+B2y60LIzkj3x98QO34oqkF9EWXCfq8obKYjAkVJbYlDXCHeYlveOVLZdKRyxQ5DRfoZN4UOV9mNCXdQqzjxs8C8HsyLWaiaDFPtns=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="35422342b9e4adf798fcdfd9db5612f829454188" Description="" Url=""><as:assemblyIdentity name="SysInfo.exe" version="2.0.0.0" publicKeyToken="7af80cf77f8d7437" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=KROPP\justin</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>8PA3oOKV6Ne/todmDyNvp7/A/pI=</DigestValue></Reference></SignedInfo><SignatureValue>JAn/A0itm3XdSP4JtqtP2R7+0Nq5cVKOC+zUxZ68YukGZHMHeRcUcnxJgRpwT+GnMu1i6xJBViyyIToA2SXc7Q1CYh1+QPswhLmEAKF7EOwtVaCl+ZLMzSlOiT5bJKuQxbvSI03ED0Uu4gOByZgJ8uo2uUgq9A8qIKoBWvpcROo=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>jGKxaKo2LyCLx+6ZexNxYSQsH2ITZWchQke39Hxa8efohbfIOt+fQnCUY1dMg7c2qm5GI+B2y60LIzkj3x98QO34oqkF9EWXCfq8obKYjAkVJbYlDXCHeYlveOVLZdKRyxQ5DRfoZN4UOV9mNCXdQqzjxs8C8HsyLWaiaDFPtns=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIByTCCATKgAwIBAgIQefuBRDjL2rxHD/H2JvRNDzANBgkqhkiG9w0BAQUFADAjMSEwHwYDVQQDHhgASwBSAE8AUABQAFwAagB1AHMAdABpAG4wHhcNMTYwMTE5MTY1MDUyWhcNMTcwMTE4MjI1MDUyWjAjMSEwHwYDVQQDHhgASwBSAE8AUABQAFwAagB1AHMAdABpAG4wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAIxisWiqNi8gi8fumXsTcWEkLB9iE2VnIUJHt/R8WvHn6IW3yDrfn0JwlGNXTIO3NqpuRiPgdsutCyM5I98ffEDt+KKpBfRFlwn6vKGymIwJFSW2JQ1wh3mJb3jlS2XSkcsUOQ0X6GTeFDlfZjQl3UKs48bPAvB7Mi1momgxT7Z7AgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAJEUDbRZFtoZMGOU/CzEgeK8c7d1yzmgjqEBcrrkJziUpDmMkCpc/HcXlnMmqihqQUs5981ZtYGNhQaw9QlvHZ66hlNWPY/6slTY2BaBD/1U3l3kUyCUDZ4o4ME/08VPhhSdjlTypbXNlreBOYfqXeSgIL9bqgGrlhBx0lsYF8Js=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

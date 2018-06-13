@@ -1,0 +1,61 @@
+C:\SVN\KROPP\Projects\SysInfo 2.x.x\SysInfo\SysInfo\bin\Debug\SysInfo.exe.config
+C:\SVN\KROPP\Projects\SysInfo 2.x.x\SysInfo\SysInfo\bin\Debug\SysInfo.exe.manifest
+C:\SVN\KROPP\Projects\SysInfo 2.x.x\SysInfo\SysInfo\bin\Debug\SysInfo.application
+C:\SVN\KROPP\Projects\SysInfo 2.x.x\SysInfo\SysInfo\bin\Debug\SysInfo.exe
+C:\SVN\KROPP\Projects\SysInfo 2.x.x\SysInfo\SysInfo\bin\Debug\SysInfo.pdb
+C:\SVN\KROPP\Projects\SysInfo 2.x.x\SysInfo\SysInfo\bin\Debug\SysInfo.xml
+C:\SVN\KROPP\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Debug\SysInfo.About.resources
+C:\SVN\KROPP\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Debug\SysInfo.Main.resources
+C:\SVN\KROPP\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Debug\SysInfo.Resources.resources
+C:\SVN\KROPP\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Debug\SysInfo.Warranty.resources
+C:\SVN\KROPP\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Debug\SysInfo.vbproj.GenerateResource.Cache
+C:\SVN\KROPP\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Debug\SysInfo.exe.manifest
+C:\SVN\KROPP\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Debug\SysInfo.application
+C:\SVN\KROPP\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Debug\SysInfo.exe
+C:\SVN\KROPP\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Debug\SysInfo.xml
+C:\SVN\KROPP\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Debug\SysInfo.pdb
+C:\SVN\KROPP\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Debug\SysInfo.vbprojResolveAssemblyReference.cache
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\bin\Debug\SysInfo.exe.config
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Debug\SysInfo.exe
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Debug\SysInfo.xml
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Debug\SysInfo.pdb
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\bin\Debug\SysInfo.exe.manifest
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\bin\Debug\SysInfo.application
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\bin\Debug\SysInfo.exe
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\bin\Debug\SysInfo.pdb
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\bin\Debug\SysInfo.xml
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Debug\SysInfo.About.resources
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Debug\SysInfo.Main.resources
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Debug\SysInfo.Resources.resources
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Debug\SysInfo.Settings.resources
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Debug\SysInfo.Warranty.resources
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Debug\SysInfo.vbproj.GenerateResource.Cache
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Debug\SysInfo.exe.manifest
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Debug\SysInfo.application
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Debug\SysInfo.Dump_Logs.resources
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Debug\SysInfo.ActiveDirectoryToolkit.resources
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Debug\SysInfo.UpdatePicture.resources
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Debug\SysInfo.UpdateManager.resources
+Z:\Data\Google Drive\Work\Projects\SysInfo 2.x.x\SysInfo\SysInfo\obj\Debug\SysInfo.vbprojResolveAssemblyReference.cache
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\obj\Debug\SysInfo.vbprojResolveAssemblyReference.cache
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\obj\Debug\SysInfo.About.resources
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\obj\Debug\SysInfo.ActiveDirectoryToolkit.resources
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\obj\Debug\SysInfo.UpdateManager.resources
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\obj\Debug\SysInfo.UpdatePicture.resources
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\obj\Debug\SysInfo.Dump_Logs.resources
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\obj\Debug\SysInfo.Main.resources
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\obj\Debug\SysInfo.Resources.resources
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\obj\Debug\SysInfo.Settings.resources
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\obj\Debug\SysInfo.Warranty.resources
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\obj\Debug\SysInfo.vbproj.GenerateResource.Cache
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\obj\Debug\SysInfo.exe
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\obj\Debug\SysInfo.xml
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\obj\Debug\SysInfo.pdb
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\bin\Debug\SysInfo.exe.config
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\bin\Debug\SysInfo.exe.manifest
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\bin\Debug\SysInfo.application
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\bin\Debug\SysInfo.exe
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\bin\Debug\SysInfo.pdb
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\bin\Debug\SysInfo.xml
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\obj\Debug\SysInfo.exe.manifest
+E:\CLAC\Infrastructure\Projects\SysInfo - PE 851\Source Code\SysInfo\obj\Debug\SysInfo.application
